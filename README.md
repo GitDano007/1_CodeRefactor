@@ -27,9 +27,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 *  Fixes
-- Semantic fix from div to nav for the top navigation-->
-- Semantic fix from Div to Article-->
-- Semantic fix change of Div to footer-->
+- Semantic fix from div to nav for the top navigation
+- Semantic fix from Div to Article
+- Semantic fix change of Div to footer
 - Added Alt tags to all images
 - Added image tag to all images
 - Added Aria Label to all Images
